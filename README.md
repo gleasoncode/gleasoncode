@@ -1,6 +1,6 @@
 # Gleason — gleasoncode 
-Python learner focused on discipline, mindset and real-world structure 
-I come from a legal background and I´m transitioning into programming to build a more autonomus and creative professional path
+Python learner focused on discipline, mindset, and real-world structure.
+I come from a legal background, and I´m transitioning into programming to build a more autonomus and creative professional path
 
 ## Current focus 
 — Learning Python fundamentals 
@@ -8,10 +8,7 @@ I come from a legal background and I´m transitioning into programming to build 
 — Combining Krav Maga mindset with coding discipline 
 
 ## Philosophy 
-Code is not just technical skill — It´s structure, presence, and clarity 
-
-tech.
-
+Code it´s not just technical skill — It´s structure, presence, and clarity.
 <!--
 **gleasoncode/gleasoncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
