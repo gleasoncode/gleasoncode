@@ -3,9 +3,9 @@ Python learner focused on discipline, mindset, and real-world structure.
 I come from a legal background, and I´m transitioning into programming to build a more autonomus and creative professional coding path
 
 ## Current focus 
-— Learning Python fundamentals 
-— Building consistency through daily practice
-— Combining Krav Maga mindset with coding discipline 
+— Structured Python practice
+— Discipline—driven learning
+— Code as structure and clarity
 
 ## Philosophy 
 Code it´s not just technical skill — It´s structure, presence, and clarity.
