@@ -8,7 +8,7 @@ I come from a legal background, and I´m transitioning into programming to build
 — Code as structure and clarity
 
 ## Philosophy 
-Code it´s not just technical skill — It´s structure, presence, and clarity.
+Code is not just a technical skill — it´s structure, presence, and clarity.
 <!--
 **gleasoncode/gleasoncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
