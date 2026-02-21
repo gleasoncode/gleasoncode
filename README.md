@@ -1,6 +1,6 @@
 # Gleason — gleasoncode 
 Python learner focused on discipline, mindset, and real-world structure.
-I come from a legal background, and I´m transitioning into programming to build a more autonomus and creative professional path
+I come from a legal background, and I´m transitioning into programming to build a more autonomus and creative professional coding path
 
 ## Current focus 
 — Learning Python fundamentals 
