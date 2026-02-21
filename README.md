@@ -5,7 +5,7 @@ I come from a legal background, and I´m transitioning into programming to build
 ## Current focus 
 — Structured Python practice
 — Discipline—driven learning
-— Code as structure and clarity
+— Building precision through code
 
 ## Philosophy 
 Code is not just a technical skill — it´s structure, presence, and clarity.
